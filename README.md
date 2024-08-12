@@ -4,6 +4,7 @@
 # O que é isso?
 Este é um projeto básico que gera uma cor aleatória cada vez que você clica em um botão. A cor muda na tela e você também vê o código hexadecimal da cor gerada. 
 Realmente eu só queria ver como HTML, CSS e JavaScript funcionam juntos então, depois de seguir muitos tutoriais, a quimera nasceu!
+Quebrei um pouco a cabeça para entender como colocava tudo junto, como enfeitava tudo e ainda estou aprendendo o nome das coisas (mas pelo menos entendi o que é bootstrap kk). 
 
 ## Tecnologias Usadas
 - HTML: Para a estrutura da página.
