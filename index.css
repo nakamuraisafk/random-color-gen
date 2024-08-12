@@ -1,0 +1,15 @@
+#color {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-size: 90px;
+    font-weight: 900;
+    mix-blend-mode: difference;
+    cursor: pointer;
+}
+.credit{
+    mix-blend-mode: difference;
+    font-weight: 900;
+}
