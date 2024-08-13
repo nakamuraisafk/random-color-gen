@@ -18,3 +18,4 @@ Lembrando que tudo aqui é muito cru e iniciante. Espero olhar para o passado e 
 > “Somewhere, something incredible is waiting to be known.”
 ― Carl Sagan
 
+![GIF](https://github.com/user-attachments/assets/43cbed40-723f-4337-b985-fe700e273f83)
